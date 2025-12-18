@@ -8,11 +8,10 @@ We selected this functional requirement for the prototype because it is core to 
 ## Non-Functional
 As a developer, I want the platform to be easy to maintain and extend with new meal types or dietary rules so that the platform can evolve with changing requirements.
 ### Why select this non-functional requirement?
-This requirement ensures that SmartCater can continue to meet evolving customer needs and market trends without disrupting existing functionality. By designing the system to be extensible, new meals or dietary rules can be added efficiently, supporting the platform’s growth and long-term sustainability. 
-We selected this non-functional requirement for the prototype because it demonstrates a flexible architecture that will reliably accommodate future changes.
+We selected this non-functional requirement for the prototype because it can be clearly demonstrated on a small scale while showing its impact on the system’s long-term value. Even in a prototype using in-memory data, we can illustrate that new meals, categories, or dietary rules can be added without changing existing functionality, proving that the platform is designed to evolve reliably as customer needs and market trends change. This helps stakeholders understand that the system architecture supports growth and flexibility from the very beginning.
 ## How they relate
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MjQzNTc1OSwtOTA1MTE3MTkwLC04NT
-kzMTM3NTIsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE4MDQyMzczNjcsLTkwNTExNzE5MCwtOD
+U5MzEzNzUyLC0yMDg4NzQ2NjEyXX0=
 -->
