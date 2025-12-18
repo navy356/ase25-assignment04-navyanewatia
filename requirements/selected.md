@@ -6,8 +6,8 @@ This requirement represents a customer's first impression of SmartCater. We want
 ## Non-Functional
 As a developer, I want the platform to be easy to maintain and extend with new meal types or dietary rules so that the platform can evolve with changing requirements.
 ### Why?
-This requirement ensures SmartCater can adapt to future changes without major modifications to existing code. This allows the SmartCater to continously evolve to meet customer needs and trends with ease. We decided on this non-functional requirement as it is comparitively easy to demonstrate u
+This requirement ensures SmartCater can adapt to future changes without major modifications to existing code. This allows the SmartCater to continuously evolve to meet customer needs and trends with ease. We decided on this non-functional requirement as it is comparatively easy to demonstrate using a flexible architecture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNDY5MjI0MCwtOTA1MTE3MTkwLC04NT
-kzMTM3NTIsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNjU5NDc5MjQ5LC05MDUxMTcxOTAsLTg1OT
+MxMzc1MiwtMjA4ODc0NjYxMl19
 -->
