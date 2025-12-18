@@ -4,7 +4,8 @@ As a customer, I want to search meals by name, ingredient, or category (e.g., ve
 ### Why is this a reasonable scope for the prototype?
 This requirement directly impacts the customer experience, as searching for meals is one of the first interactions a customer has with SmartCater. Being able to quickly find meals that meet their preferences ensures that customers can efficiently select and order meals, improving satisfaction and reducing the likelihood that they turn to competitors. 
 ### Why select this functional requirment?
-We selected this functional requirement for the prototype because it is core to the platform and can be effectively demonstrated with sample data.
+We selected this functional requirement for the prototype because searching meals is a core part of the customer experience and directly demonstrates the value of SmartCater. It can be effectively demonstrated using sample data, allowing stakeholders to see how customers can find meals by name, ingredient, or category. This makes it feasible to implement in a small-scale prototype while still clearly showing the feature’s impact on usability and customer satisfaction.
+
 ## Non-Functional
 As a developer, I want the platform to be easy to maintain and extend with new meal types or dietary rules so that the platform can evolve with changing requirements.
 ### Why select this non-functional requirement?
@@ -12,6 +13,6 @@ We selected this non-functional requirement for the prototype because it can be 
 ## How they relate
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDQyMzczNjcsLTkwNTExNzE5MCwtOD
-U5MzEzNzUyLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE3ODc5NTQ4LC05MDUxMTcxOTAsLTg1OT
+MxMzc1MiwtMjA4ODc0NjYxMl19
 -->
