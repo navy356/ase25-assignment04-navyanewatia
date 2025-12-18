@@ -2,12 +2,12 @@
 ## Functional
 As a customer, I want to search meals by name, ingredient, or category (e.g., vegan, quick meals, gluten-free) so that I can easily find meals that meet my preferences.
 ### Why?
-This requirement represents a customer's first impression of SmartCater. We want the customer to easily find what they are looking for based on their preferences. Since selecting a meal is the first step towards ordering, if customers cannot find a suitable meal as per their preferences quickly, they may turn to other providers. Therefore, we decided to implement this functional requirement first as part of the prototype.
+This requirement represents a customer's first impression of SmartCater. It directly impacts the user experience. We want the customer to easily find what they are looking for based on their preferences. Since selecting a meal is the first step towards ordering, if customers cannot find a suitable meal as per their preferences quickly, they may turn to other providers. Therefore, we decided to implement this functional requirement first as part of the prototype.
 ## Non-Functional
 As a developer, I want the platform to be easy to maintain and extend with new meal types or dietary rules so that the platform can evolve with changing requirements.
 ### Why?
 This requirement ensures SmartCater can adapt to future changes without major modifications to existing code. This allows the SmartCater to continuously evolve to meet customer needs and trends with ease. We decided on this non-functional requirement as it is comparatively easy to demonstrate using a flexible architecture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU5NDc5MjQ5LC05MDUxMTcxOTAsLTg1OT
-MxMzc1MiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTI4ODY0MzUyMSwtOTA1MTE3MTkwLC04NT
+kzMTM3NTIsLTIwODg3NDY2MTJdfQ==
 -->
