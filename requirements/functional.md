@@ -7,10 +7,10 @@
 - As a registered customer, I want to order ingredients for a selected meal so that I can prepare that meal.
 - As a registered customer, I want to schedule ingredient deliveries (same-day or next-day) so that they arrive as per my needs and availability.
 - As a registered customer, I want to track the status of my orders so that I know their current progress.
--
+## Admin
 - As an admin, I want to add, update or remove meal options so that I can keep the menu up-to-date.
 - As an admin, I want to view all customer orders so that I can monitor order fulfillment.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NDU4NjQ3NiwtMjAwMTU4NjIwMiwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTEzMzI3MzgwODgsLTIwMDE1ODYyMDIsLT
+IwODg3NDY2MTJdfQ==
 -->
