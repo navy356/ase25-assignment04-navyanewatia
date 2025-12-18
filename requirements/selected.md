@@ -9,10 +9,11 @@ We selected this functional requirement for the prototype because searching meal
 ## Non-Functional
 As a developer, I want the platform to be easy to maintain and extend with new meal types or dietary rules so that the platform can evolve with changing requirements.
 ### Why select this non-functional requirement?
-We selected this non-functional requirement for the prototype because it can be clearly demonstrated on a small scale while showing its impact on the system’s long-term value. Even in a prototype using in-memory data, we can illustrate that new meals, categories, or dietary rules can be added without changing existing functionality, proving that the platform is designed to evolve reliably as customer needs and market trends change. This helps stakeholders understand that the system architecture supports growth and flexibility from the very beginning.
+We selected this non-functional requirement for the prototype because **it can be clearly demonstrated on a small scale while showing its impact on the system’s long-term value**. Even in a prototype using in-memory data, we can illustrate that new meals, categories, or dietary rules can be added without changing existing functionality, proving that the platform is designed to evolve reliably as customer needs and market trends change. This helps stakeholders understand that the system architecture supports growth and flexibility from the very beginning.
 ## How they relate
-As more meal types or dietary preferences are added to the SmartCater, the customer should also be able to find them out of all the available ones.
+The extensibility of the platform directly supports the search functionality. **As new meal types or dietary preferences are added to SmartCater, the search feature ensures that customers can still find the relevant meals quickly and easily.** Demonstrating this relationship in the prototype shows that the system can handle growth and changes without impacting the core customer experience, maintaining usability and satisfaction even as the platform evolves.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0NDA4MzU3LC0xNzg3OTU0OCwtOTA1MT
-E3MTkwLC04NTkzMTM3NTIsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE2MTk0MzExNDUsLTE3ODc5NTQ4LC05MD
+UxMTcxOTAsLTg1OTMxMzc1MiwtMjA4ODc0NjYxMl19
 -->
