@@ -6,9 +6,10 @@ The implementation supports maintainability and extensibility by separating meal
 - The implementation uses MealDB as a class to store meal data. For the prototype it is simply stored in a list but in a proper application it would be replaced with a database. MealDB mimics such a database.
 - This implementation assumes that core functionalily of the app itself is not changed when adding new meal types or dietary rules. Eg: A Vegan tag is not expected to check if all ingredients are actually vegan.
 - We assume that the tags associated with the meal are correct.
-- We assume that the customer will only search by one ingredient or tag,
+- We assume that the customer will only search by one ingredient or tag for the prototype. It can be extended for the proper app.
 ## Limitations
-
+- While the Strategy pattern makes it easy to add new search or dietary rules, some extensions may still require changes to supporting components (e.g., user interface menus or configuration), meaning extensibility is not completely isolated.
+- Dietary rules are represented as simple tags rather than rule-based evaluations of ingredients, which limits how far the system can be extended without introducing more complex validation logic.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyOTMzMzg4N119
+eyJoaXN0b3J5IjpbLTQxNTAyMDgwN119
 -->
