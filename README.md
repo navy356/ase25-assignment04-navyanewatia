@@ -20,11 +20,11 @@ python smart_cater.py console
 ### To re-generate samples (from themealdb.com)
 You can choose to generate any number of samples instead of just 10 
 ```
-cd samples
+cd sample_data
 python meal_gen.py 10
 cd ..
 ```
-The new samples will be written to ``samples/samples.json``. The original meal samples will still be in ``samples/meals.json``.
+The new samples will be written to ``sample_data/samples.json``. The original meal samples will still be in ``sample_data/meals.json``.
 
 ## Textual Menu Navigation
 In general, all key bindings will be displayed at the bottom of the screen. You can use ``q`` at any point to instantly quit the application.

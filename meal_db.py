@@ -8,7 +8,7 @@ class MealDB:
     For the prototype, we have used a simple list in python to hold the data.
     """
     _meals : list = []
-    SAMPLES_FILE : str = "samples/samples.json"
+    SAMPLES_FILE : str = "sample_data/samples.json"
 
     @staticmethod
     def create_meal(name,ingredients,tags=None):
