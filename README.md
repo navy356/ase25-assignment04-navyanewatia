@@ -24,7 +24,7 @@ cd samples
 python meal_gen.py 10
 cd ..
 ```
-The new samples will be written to ``samples/samples.json``. The original meal samples will still be in ``samples/meals.json``
+The new samples will be written to ``samples/samples.json``. The original meal samples will still be in ``samples/meals.json``.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgxNDMwMTEwXX0=
+eyJoaXN0b3J5IjpbNTEwNDIyODU2XX0=
 -->
