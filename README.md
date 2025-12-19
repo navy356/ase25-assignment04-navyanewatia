@@ -13,7 +13,10 @@ This will use the console app unless optional requirements are installed, in whi
 ```
 python smart_cater.py
 ```
-### To use console app even if te
+### To use console app even if optional requirements are installed
+```
+python smart
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTQ0MTYxNl19
+eyJoaXN0b3J5IjpbLTEwNDMwNDAyNzZdfQ==
 -->
