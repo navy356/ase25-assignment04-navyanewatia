@@ -1,8 +1,4 @@
 # SmartCater Prototype
-![menu](images/menu.png)
-![meals](images/meals.png)
-![search](images/search.png)
-![quit](images/quit.png)
 ## Installation
 ```
 git clone https://github.com/navy356/ase25-assignment04-navyanewatia.git
@@ -29,6 +25,14 @@ python meal_gen.py 10
 cd ..
 ```
 The new samples will be written to ``samples/samples.json``. The original meal samples will still be in ``samples/meals.json``.
+
+## Menu Navigation
+### Main Menu
+![menu](images/menu.png)
+Simple click to 
+![meals](images/meals.png)
+![search](images/search.png)
+![quit](images/quit.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzM5ODM5OF19
+eyJoaXN0b3J5IjpbLTYyNjg1NjgyNV19
 -->
