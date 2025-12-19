@@ -254,6 +254,8 @@ class ConsonleMealMenu:
             query = input("Enter search query: ")
         results = MealDB.search(query, search_stratergy)
         center_print(" Search Results ", "-")
+        if len(results)==0:
+            center_print("No meals found.")
         for result in results:
             print(result)
         center_print("", "-")

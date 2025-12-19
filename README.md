@@ -1,4 +1,5 @@
 # SmartCater Prototype
+A prototype application for SmartCater
 ## Installation
 ```
 git clone https://github.com/navy356/ase25-assignment04-navyanewatia.git
