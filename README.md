@@ -47,7 +47,10 @@ This dialog box only appears when choosing to exit from main menu. If ``q`` is p
 The app will always come back to the main menu unless exit is selected. To select an option enter the correponding number into the input prompt and press enter.
 ![menu](images/console-menu.png)
 ### Info
-The options like list
+The options like ``List available tags`` are added to the console app to easier get existing tags from the sample meals to search for.
+![search](images/console-search.png)
+### Search
+If you choose to search per a given filter, enter you ser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2NzM5NjUxLDEyNzgxNDU3NzRdfQ==
+eyJoaXN0b3J5IjpbLTEzODIzODcwMDEsMTI3ODE0NTc3NF19
 -->
