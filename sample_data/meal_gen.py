@@ -15,7 +15,7 @@ class MealSamples:
         meal[meal_raw['strMeal']]={}
         meal[meal_raw['strMeal']]['ingredients'] = []
         for key,val in meal_raw.items():
-            if key.startswith("strIngredient") and val.strip()!="":
+            if key.startswith("strIngredient") and val and val.strip()!="":
                 meal[meal_raw['strMeal']]['ingredients'].append(val)
         meal[meal_raw['strMeal']]['tags'] = set()
         if meal_raw['strCategory']:
