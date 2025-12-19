@@ -1,4 +1,8 @@
 # SmartCater Prototype
+![menu](images/menu.png)
+![search](images/search.png)
+![meals](images/meals.png)
+![quit](images/search.png)
 ## Installation
 ```
 git clone https://github.com/navy356/ase25-assignment04-navyanewatia.git
@@ -26,5 +30,5 @@ cd ..
 ```
 The new samples will be written to ``samples/samples.json``. The original meal samples will still be in ``samples/meals.json``.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODk3OTQyOTBdfQ==
+eyJoaXN0b3J5IjpbLTE0Nzc1MzM5NDddfQ==
 -->
