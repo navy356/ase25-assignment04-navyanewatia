@@ -1,0 +1,199 @@
+{
+    "Tuna and Egg Briks": {
+        "ingredients": [
+            "Olive Oil",
+            "Spring Onions",
+            "Spinach",
+            "Filo Pastry",
+            "Tuna",
+            "Eggs",
+            "Hotsauce",
+            "Tomatoes",
+            "Cucumber",
+            "Lemon Juice",
+            "Apricot Jam"
+        ],
+        "tags": [
+            "Tunisian",
+            "Seafood"
+        ]
+    },
+    "Pizza Express Margherita": {
+        "ingredients": [
+            "Water",
+            "Sugar",
+            "Yeast",
+            "Plain Flour",
+            "Salt",
+            "Olive Oil",
+            "Passata",
+            "Mozzarella",
+            "Oregano",
+            "Basil",
+            "Black Pepper"
+        ],
+        "tags": [
+            "Italian",
+            "Miscellaneous"
+        ]
+    },
+    "Bigos (Polish hunter's stew)": {
+        "ingredients": [
+            "White Cabbage",
+            "Beef Stock",
+            "Mushrooms",
+            "Lard",
+            "German Sausages",
+            "Bacon",
+            "Onion",
+            "Beef",
+            "Prunes",
+            "Bay Leaf",
+            "Cloves",
+            "Peppercorns",
+            "Juniper Berries",
+            "Allspice Berries",
+            "Red Wine",
+            "Tomato Puree"
+        ],
+        "tags": [
+            "Beef",
+            "Polish"
+        ]
+    },
+    "Kumpir": {
+        "ingredients": [
+            "Potatoes",
+            "Butter",
+            "Cheese",
+            "Onion",
+            "Red Pepper",
+            "Red Chilli Flakes"
+        ],
+        "tags": [
+            "Side",
+            "SideDish",
+            "Turkish"
+        ]
+    },
+    "Chickpea, chorizo & spinach stew": {
+        "ingredients": [
+            "Extra Virgin Olive Oil",
+            "Onion",
+            "Carrots",
+            "Celery",
+            "Thyme",
+            "Bay Leaves",
+            "Garlic",
+            "Chorizo",
+            "Cinnamon",
+            "Paprika",
+            "Chickpeas",
+            "Sherry vinegar",
+            "Spinach"
+        ],
+        "tags": [
+            "Pork",
+            "Spanish"
+        ]
+    },
+    "Croatian Bean Stew": {
+        "ingredients": [
+            "Cannellini Beans",
+            "Vegetable Oil",
+            "Tomatoes",
+            "Challots",
+            "Garlic",
+            "Parsley",
+            "Chorizo"
+        ],
+        "tags": [
+            "Beans",
+            "Beef",
+            "Soup",
+            "Warming",
+            "Croatian"
+        ]
+    },
+    "Kentucky Fried Chicken": {
+        "ingredients": [
+            "Chicken",
+            "Oil",
+            "Egg White",
+            "Flour",
+            "Brown Sugar",
+            "Salt",
+            "paprika",
+            "onion salt",
+            "chili powder",
+            "black pepper",
+            "celery salt",
+            "sage",
+            "garlic powder",
+            "allspice",
+            "oregano",
+            "basil",
+            "marjoram"
+        ],
+        "tags": [
+            "American",
+            "Spicy",
+            "Chicken",
+            "Meat"
+        ]
+    },
+    "\u00c6bleskiver": {
+        "ingredients": [
+            "Flour",
+            "Salt",
+            "Granulated Sugar",
+            "Baking Powder",
+            "Cardamom",
+            "Egg",
+            "Buttermilk",
+            "Butter",
+            "Powdered Sugar",
+            "Raspberry Jam"
+        ],
+        "tags": [
+            "Dessert",
+            "Norwegian"
+        ]
+    },
+    "Poulet Roti a l'Algerienne (Algerian Roast Chicken)": {
+        "ingredients": [
+            "Water",
+            "Onion",
+            "Olive Oil",
+            "Balsamic Vinegar",
+            "Dijon Mustard",
+            "Garlic",
+            "Black Pepper",
+            "Cayenne Pepper",
+            "Salt",
+            "Chicken"
+        ],
+        "tags": [
+            "Algerian",
+            "Chicken"
+        ]
+    },
+    "Arroz con gambas y calamar": {
+        "ingredients": [
+            "Raw King Prawns",
+            "Olive Oil",
+            "Onion",
+            "Bay Leaf",
+            "Saffron",
+            "Paella Rice",
+            "Tomato Puree",
+            "White Wine",
+            "Seafood stock",
+            "Squid"
+        ],
+        "tags": [
+            "Seafood",
+            "Spanish"
+        ]
+    }
+}
