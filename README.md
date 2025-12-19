@@ -48,9 +48,13 @@ The app will always come back to the main menu unless exit is selected. To selec
 ![menu](images/console-menu.png)
 ### Info
 The options like ``List available tags`` are added to the console app to easier get existing tags from the sample meals to search for.
-![search](images/console-search.png)
+![list](images/console-list.png)
 ### Search
-If you choose to search per a given filter, enter you ser
+If you choose to search per a given filter, enter you search query into the given prompt and press enter. The search results will be displayed.
+![search](images/console-search.png)
+### Quit
+To exit simply enter the corresponding number from the main menu and press enter.
+![exit](images/console-exit.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODIzODcwMDEsMTI3ODE0NTc3NF19
+eyJoaXN0b3J5IjpbLTExNTgyMzYyOTEsMTI3ODE0NTc3NF19
 -->
