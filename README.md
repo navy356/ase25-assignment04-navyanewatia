@@ -27,6 +27,7 @@ cd ..
 The new samples will be written to ``samples/samples.json``. The original meal samples will still be in ``samples/meals.json``.
 
 ## Menu Navigation
+In general, all key bindings will be displayed at the bottom of the screen. You can use ``q`` at any point to instantly quit the application.
 ### Main Menu
 ![menu](images/menu.png)
 Simply click to select an option or use arrow keys and press enter.
@@ -34,8 +35,11 @@ Simply click to select an option or use arrow keys and press enter.
 ![meals](images/meals.png)
 Example view on clicking option "Show all Meals"
 To return press ``Escape`` or ``Backspace``
+### Search
 ![search](images/search.png)
+Click the input dialog, type yo
+
 ![quit](images/quit.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA4NTg5MzM3XX0=
+eyJoaXN0b3J5IjpbLTIyNTUwMDYyNl19
 -->
