@@ -29,21 +29,20 @@ The new samples will be written to ``samples/samples.json``. The original meal s
 ## Textual Menu Navigation
 In general, all key bindings will be displayed at the bottom of the screen. You can use ``q`` at any point to instantly quit the application.
 ### Main Menu
-![menu](images/menu.png)
 Simply click to select an option or use arrow keys and press enter.
+![menu](images/menu.png)
 ### Show all Meals
-![meals](images/meals.png)
-Example view on clicking option "Show all Meals"
 To return to main menu press ``Escape`` or ``Backspace``
+![meals](images/meals.png)
 ### Search
-![search](images/search.png)
 Click the input dialog, type your search query and press enter to display search results.
 To return to main menu press ``Escape`` or ``Backspace``
+![search](images/search.png)
 ### Quit
-![quit](images/quit.png)
 This dialog box only appears when choosing to exit from main menu. If ``q`` is pressed to exit it will not appear. That is the only difference between the two methods to exit.
+![quit](images/quit.png)
 
 ## Console Menu Navigation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc5MjU4NzE3XX0=
+eyJoaXN0b3J5IjpbMTI3ODE0NTc3NF19
 -->
