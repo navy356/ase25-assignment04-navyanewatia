@@ -18,10 +18,13 @@ python smart_cater.py
 python smart_cater.py console
 ```
 ### To re-generate samples
+You can choose to generate any number of samples instead of just 10 
 ```
 cd samples
-python meal_gen.py 
+python meal_gen.py 10
+cd ..
 ```
+The new samples will be written to ``samples/samples.json``. The original meal samples will still be in ``samples/meals.json``
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzM5MTY4OV19
+eyJoaXN0b3J5IjpbNTgxNDMwMTEwXX0=
 -->
