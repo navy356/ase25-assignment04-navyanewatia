@@ -28,7 +28,7 @@ cd ..
 The new samples will be written to ``sample_data/samples.json``. The original meal samples will still be in ``sample_data/meals.json``.
 
 ## Textual Menu Navigation
-In general, all key bindings will be displayed at the bottom of the screen. You can use ``q`` at any point to instantly quit the application.
+In general, all key bindings will be displayed at the bottom of the screen. You can use ``q`` at any point (except when focused on an input dialog) to instantly quit the application. ``Escape`` can be used to go to the previous screen.
 ### Main Menu
 Simply click to select an option or use arrow keys and press enter.
 ![menu](images/menu.png)

@@ -87,9 +87,7 @@ if TEXTUAL_AVAILABLE:
 
         async def on_mount(self) -> None:
             """Focus input"""
-            #Commented out to avoid navigation confusion
-            # self.query_one(Input).focus()
-            pass
+            self.query_one(Input).focus()
 
         async def on_input_submitted(self, event: Input.Submitted) -> None:
             """Display results on submitting query"""
