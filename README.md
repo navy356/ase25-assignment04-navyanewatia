@@ -43,7 +43,11 @@ This dialog box only appears when choosing to exit from main menu. If ``q`` is p
 ![quit](images/quit.png)
 
 ## Console Menu Navigation
-This is the default app 
+### Main Menu
+The app will always come back to the main menu unless exit is selected. To select an option enter the correponding number into the input prompt and press enter.
+![menu](images/console-menu.png)
+### Info
+The options like list
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NjI5NDE0OSwxMjc4MTQ1Nzc0XX0=
+eyJoaXN0b3J5IjpbNzU2NzM5NjUxLDEyNzgxNDU3NzRdfQ==
 -->
