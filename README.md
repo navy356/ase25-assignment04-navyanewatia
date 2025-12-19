@@ -29,10 +29,13 @@ The new samples will be written to ``samples/samples.json``. The original meal s
 ## Menu Navigation
 ### Main Menu
 ![menu](images/menu.png)
-Simple click to 
+Simply click to select an option or use arrow keys and press enter.
+### Show all Meals
 ![meals](images/meals.png)
+Example view on clicking option "Show all Meals"
+To return press ``Escape`` or ``Backspace``
 ![search](images/search.png)
 ![quit](images/quit.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNjg1NjgyNV19
+eyJoaXN0b3J5IjpbNDA4NTg5MzM3XX0=
 -->
