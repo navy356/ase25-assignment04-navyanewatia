@@ -26,7 +26,7 @@ cd ..
 ```
 The new samples will be written to ``samples/samples.json``. The original meal samples will still be in ``samples/meals.json``.
 
-## Menu Navigation
+## Textual Menu Navigation
 In general, all key bindings will be displayed at the bottom of the screen. You can use ``q`` at any point to instantly quit the application.
 ### Main Menu
 ![menu](images/menu.png)
@@ -34,12 +34,13 @@ Simply click to select an option or use arrow keys and press enter.
 ### Show all Meals
 ![meals](images/meals.png)
 Example view on clicking option "Show all Meals"
-To return press ``Escape`` or ``Backspace``
+To return to main menu press ``Escape`` or ``Backspace``
 ### Search
 ![search](images/search.png)
-Click the input dialog, type yo
-
+Click the input dialog, type your search query and press enter to display search results.
+To return to main menu press ``Escape`` or ``Backspace``
 ![quit](images/quit.png)
+This dialog box only appears when choosing to exit from main menu. If ``q`` is pressed to exit it will not appear. That is the only difference between the two methods to exit.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNTUwMDYyNl19
+eyJoaXN0b3J5IjpbMTY5MTE2OTk5OV19
 -->
