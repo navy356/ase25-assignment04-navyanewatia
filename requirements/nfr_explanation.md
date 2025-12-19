@@ -10,6 +10,7 @@ The implementation supports maintainability and extensibility by separating meal
 ## Limitations
 - While the Strategy pattern makes it easy to add new search or dietary rules, some extensions may still require changes to supporting components (e.g., user interface menus or configuration), meaning extensibility is not completely isolated.
 - Dietary rules are represented as simple tags rather than rule-based evaluations of ingredients, which limits how far the system can be extended without introducing more complex validation logic.
+- The use of in-memory data simplifies extension for the prototype, but it does not reflect the additional maintenance complexity introduced by real databases, migrations, or data consistency constraints.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNTAyMDgwN119
+eyJoaXN0b3J5IjpbMzgyMzY1OTk0XX0=
 -->
