@@ -15,8 +15,13 @@ python smart_cater.py
 ```
 ### To use console app even if optional requirements are installed
 ```
-python smart
+python smart_cater.py console
+```
+### To re-generate samples
+```
+cd samples
+python meal_gen.py 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDMwNDAyNzZdfQ==
+eyJoaXN0b3J5IjpbLTE2MzM5MTY4OV19
 -->
