@@ -39,8 +39,11 @@ To return to main menu press ``Escape`` or ``Backspace``
 ![search](images/search.png)
 Click the input dialog, type your search query and press enter to display search results.
 To return to main menu press ``Escape`` or ``Backspace``
+### Quit
 ![quit](images/quit.png)
 This dialog box only appears when choosing to exit from main menu. If ``q`` is pressed to exit it will not appear. That is the only difference between the two methods to exit.
+
+## Console Menu Navigation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTE2OTk5OV19
+eyJoaXN0b3J5IjpbNTc5MjU4NzE3XX0=
 -->
