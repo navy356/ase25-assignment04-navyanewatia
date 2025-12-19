@@ -17,7 +17,7 @@ python smart_cater.py
 ```
 python smart_cater.py console
 ```
-### To re-generate samples
+### To re-generate samples (from themealdb.com)
 You can choose to generate any number of samples instead of just 10 
 ```
 cd samples
@@ -26,5 +26,5 @@ cd ..
 ```
 The new samples will be written to ``samples/samples.json``. The original meal samples will still be in ``samples/meals.json``.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwNDIyODU2XX0=
+eyJoaXN0b3J5IjpbLTE4ODk3OTQyOTBdfQ==
 -->
