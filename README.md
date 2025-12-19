@@ -56,5 +56,6 @@ If you choose to search per a given filter, enter you search query into the give
 To exit simply enter the corresponding number from the main menu and press enter.
 ![exit](images/console-exit.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTgyMzYyOTEsMTI3ODE0NTc3NF19
+eyJoaXN0b3J5IjpbMTE2MzYxNTk3NSwtMTE1ODIzNjI5MSwxMj
+c4MTQ1Nzc0XX0=
 -->
