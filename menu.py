@@ -322,7 +322,6 @@ class ConsonleMealMenu:
                 selected_choice["helper_function"](*selected_choice["args"])
             except Exception as e:
                 print(f"Please enter a valid number between 1 and {len(choices)}")
-                print(e)
 
 
 def run_console_menu():
