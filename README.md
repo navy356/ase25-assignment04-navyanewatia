@@ -43,6 +43,7 @@ This dialog box only appears when choosing to exit from main menu. If ``q`` is p
 ![quit](images/quit.png)
 
 ## Console Menu Navigation
+This is the default app 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3ODE0NTc3NF19
+eyJoaXN0b3J5IjpbLTk4NjI5NDE0OSwxMjc4MTQ1Nzc0XX0=
 -->
